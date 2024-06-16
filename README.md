@@ -1,6 +1,6 @@
 # bloc_example
 
-A new Flutter project.
+An example project to learn about how to implement the Bloc pattern in Flutter project.
 
 ## Getting Started
 
